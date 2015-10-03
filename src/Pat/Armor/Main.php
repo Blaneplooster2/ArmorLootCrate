@@ -5,7 +5,7 @@
  * 
  */
 
-namespace Pat\Armour;
+namespace Pat\Armor;
 
 use pocketmine\plugin\PluginManager;
 use pocketmine\Player;
