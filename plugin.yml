@@ -1,0 +1,6 @@
+name: ArmorLootCrate
+version: 1.0.0
+api: 1.12.0
+author: CavinMiana
+description: If you tap on a chest with a slimeball you get armor to get slimeball you haft to vote!
+main: Pat\Armor\Main
